@@ -1,5 +1,5 @@
 # Reignposts - Reign Posts News
-This project is to bring news from a service for iOS demostration
+This project is a demostration for iOS to bring news about technology from a web service.
 
 ## Installation
 
