@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DeletedPost" representedClassName="DeletedPost" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="idObject" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Post" representedClassName="Post" syncable="YES" codeGenerationType="class">
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="created_at" optional="YES" attributeType="String"/>
+        <attribute name="created_at_i" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="object_ID" optional="YES" attributeType="String"/>
+        <attribute name="story_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="story_title" optional="YES" attributeType="String"/>
+        <attribute name="story_url" optional="YES" attributeType="URI"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="URI"/>
+    </entity>
+    <elements>
+        <element name="DeletedPost" positionX="-63" positionY="54" width="128" height="73"/>
+        <element name="Post" positionX="-63" positionY="-18" width="128" height="178"/>
+    </elements>
+</model>

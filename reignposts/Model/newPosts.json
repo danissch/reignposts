@@ -1,0 +1,918 @@
+{
+    "hits": [
+        {
+            "created_at": "2020-10-04T00:59:17.000Z",
+            "title": null,
+            "url": null,
+            "author": "ucarion",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Not saying this is automatically a problem, but you \u003ci\u003ewill\u003c/i\u003e lose money over this. When a build dependency is unavailable or broken, you cannot create production artifacts. You\u0026#x27;ll lose money over this because broken builds lead to incidents, longer time-to-recovery during incidents, and slower development. All of these cost money.\u003cp\u003eYour exposure to defects in your build dependencies will depend on a lot of factors, but the exposure will always be there.",
+            "num_comments": null,
+            "story_id": 24673917,
+            "story_title": "A Web of Trust for NPM",
+            "story_url": "https://www.btao.org/2020/10/02/npm-trust.html",
+            "parent_id": 24675816,
+            "created_at_i": 1601773157,
+            "_tags": [
+                "comment",
+                "author_ucarion",
+                "story_24673917"
+            ],
+            "objectID": "24675860",
+            "_highlightResult": {
+                "author": {
+                    "value": "ucarion",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Not saying this \u003cem\u003eis\u003c/em\u003e automatically a problem, but you \u003ci\u003ewill\u003c/i\u003e lose money over this. When a build dependency \u003cem\u003eis\u003c/em\u003e unavailable or broken, you cannot create production artifacts. You'll lose money over this because broken builds lead to incidents, longer time-to-recovery during incidents, and slower development. All of these cost money.\u003cp\u003eYour exposure to defects in your build dependencies will depend on a lot of factors, but the exposure will always be there.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "A Web of Trust for NPM",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.btao.org/2020/10/02/npm-trust.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:59:00.000Z",
+            "title": null,
+            "url": null,
+            "author": "kelnos",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I welcome the idea that Apple should be required to allow third-party app stores, but the only end game I see with a government app store is a legally-mandated requirement to have that app store installed on all citizens\u0026#x27;\u0026#x2F;residents\u0026#x27; phones.  At that point the phones just become extensions of the state\u0026#x27;s intelligence apparatus, and that\u0026#x27;s a net negative for everyone\u0026#x27;s privacy.\u003cp\u003eApple should certainly allow alternative app stores, and Google should make it easier and safer for customers to install alternative app stores, but I never want to see governments get into that market.",
+            "num_comments": null,
+            "story_id": 24671493,
+            "story_title": "Modi government to set up app store alternative to Google Play, Apple App Store",
+            "story_url": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+            "parent_id": 24671917,
+            "created_at_i": 1601773140,
+            "_tags": [
+                "comment",
+                "author_kelnos",
+                "story_24671493"
+            ],
+            "objectID": "24675858",
+            "_highlightResult": {
+                "author": {
+                    "value": "kelnos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I welcome the idea that Apple should be required to allow third-party app stores, but the only end game I see with a government app store \u003cem\u003eis\u003c/em\u003e a legally-mandated requirement to have that app store installed on all citizens'/residents' phones.  At that point the phones just become extensions of the state's intelligence apparatus, and that's a net negative for everyone's privacy.\u003cp\u003eApple should certainly allow alternative app stores, and Google should make it easier and safer for customers to install alternative app stores, but I never want to see governments get into that market.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Modi government to set up app store alternative to Google Play, Apple App Store",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:58:50.000Z",
+            "title": null,
+            "url": null,
+            "author": "kanox",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; One should remember that any sane application will be parsing the config file into internal data structures and validating it anyway so it gets little benefit from the numbers being already “parsed”.\u003cp\u003eThe benefit of standard numeric and boolean types is that different tool can exchange data based on well-understood tools.\u003cp\u003eGetting rid of yaml\u0026#x27;s 30 ways to write \u0026quot;true\u0026quot; and \u0026quot;false\u0026quot; by making everything is a string just means that you will get 30 tool-specific ways to write \u0026quot;true\u0026quot; and \u0026quot;false\u0026quot;.\u003cp\u003eThe \u0026quot;everything is a string\u0026quot; approach already exists in shell scripts and TCL and it\u0026#x27;s not really that great.",
+            "num_comments": null,
+            "story_id": 24674490,
+            "story_title": "NestedText, a nice alternative to JSON, YAML, TOML",
+            "story_url": "https://nestedtext.org",
+            "parent_id": 24675140,
+            "created_at_i": 1601773130,
+            "_tags": [
+                "comment",
+                "author_kanox",
+                "story_24674490"
+            ],
+            "objectID": "24675857",
+            "_highlightResult": {
+                "author": {
+                    "value": "kanox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; One should remember that any sane application will be parsing the config file into internal data structures and validating it anyway so it gets little benefit from the numbers being already “parsed”.\u003cp\u003eThe benefit of standard numeric and boolean types \u003cem\u003eis\u003c/em\u003e that different tool can exchange data based on well-understood tools.\u003cp\u003eGetting rid of yaml's 30 ways to write \u0026quot;true\u0026quot; and \u0026quot;false\u0026quot; by making everything \u003cem\u003eis\u003c/em\u003e a string just means that you will get 30 tool-specific ways to write \u0026quot;true\u0026quot; and \u0026quot;false\u0026quot;.\u003cp\u003eThe \u0026quot;everything \u003cem\u003eis\u003c/em\u003e a string\u0026quot; approach already exists in shell scripts and TCL and it's not really that great.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "NestedText, a nice alternative to JSON, YAML, TOML",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://nestedtext.org",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:58:48.000Z",
+            "title": null,
+            "url": null,
+            "author": "bitdestroyer",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Just a note, that\u0026#x27;s Pasco county which is north of Tampa. I believe you\u0026#x27;re referring to this story that broke a few weeks ago: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;projects.tampabay.com\u0026#x2F;projects\u0026#x2F;2020\u0026#x2F;investigations\u0026#x2F;police-pasco-sheriff-targeted\u0026#x2F;intelligence-led-policing\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;projects.tampabay.com\u0026#x2F;projects\u0026#x2F;2020\u0026#x2F;investigations\u0026#x2F;p...\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24673785,
+            "story_title": "How the Police Use AI to Track and Identify You",
+            "story_url": "https://thegradient.pub/how-the-police-use-ai-to-track-and-identify-you/",
+            "parent_id": 24675207,
+            "created_at_i": 1601773128,
+            "_tags": [
+                "comment",
+                "author_bitdestroyer",
+                "story_24673785"
+            ],
+            "objectID": "24675856",
+            "_highlightResult": {
+                "author": {
+                    "value": "bitdestroyer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Just a note, that's Pasco county which \u003cem\u003eis\u003c/em\u003e north of Tampa. I believe you're referring to this story that broke a few weeks ago: \u003ca href=\"https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/\" rel=\"nofollow\"\u003ehttps://projects.tampabay.com/projects/2020/investigations/p...\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "How the Police Use AI to Track and Identify You",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://thegradient.pub/how-the-police-use-ai-to-track-and-identify-you/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:58:36.000Z",
+            "title": null,
+            "url": null,
+            "author": "ketzo",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Yeah, sounds like the kind of problems you’d hand to your devops team, but oftentimes that’s just you :D\u003cp\u003eI wonder how much “build maintenance” is\u0026#x2F;will become a factor in choosing between ecosystems.",
+            "num_comments": null,
+            "story_id": 24673917,
+            "story_title": "A Web of Trust for NPM",
+            "story_url": "https://www.btao.org/2020/10/02/npm-trust.html",
+            "parent_id": 24675431,
+            "created_at_i": 1601773116,
+            "_tags": [
+                "comment",
+                "author_ketzo",
+                "story_24673917"
+            ],
+            "objectID": "24675854",
+            "_highlightResult": {
+                "author": {
+                    "value": "ketzo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Yeah, sounds like the kind of problems you’d hand to your devops team, but oftentimes that’s just you :D\u003cp\u003eI wonder how much “build maintenance” \u003cem\u003eis\u003c/em\u003e/will become a factor in choosing between ecosystems.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "A Web of Trust for NPM",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.btao.org/2020/10/02/npm-trust.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:58:17.000Z",
+            "title": null,
+            "url": null,
+            "author": "ncmncm",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt;\u003ci\u003eIt is a tenable position to argue that the theory of general relativity ... is not what the world is\u003c/i\u003e\u003cp\u003eIt is not just tenable, but unavoidable, because GR is, in detail, incompatible with QM.",
+            "num_comments": null,
+            "story_id": 24670997,
+            "story_title": "The Knowledge Machine: How Irrationality Created Modern Science",
+            "story_url": "https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work",
+            "parent_id": 24672791,
+            "created_at_i": 1601773097,
+            "_tags": [
+                "comment",
+                "author_ncmncm",
+                "story_24670997"
+            ],
+            "objectID": "24675853",
+            "_highlightResult": {
+                "author": {
+                    "value": "ncmncm",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt;\u003ci\u003eIt \u003cem\u003eis\u003c/em\u003e a tenable position to argue that the theory of general relativity ... \u003cem\u003eis\u003c/em\u003e not what the world \u003cem\u003eis\u003c/em\u003e\u003c/i\u003e\u003cp\u003eIt \u003cem\u003eis\u003c/em\u003e not just tenable, but unavoidable, because GR \u003cem\u003eis\u003c/em\u003e, in detail, incompatible with QM.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "The Knowledge Machine: How Irrationality Created Modern Science",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:57:47.000Z",
+            "title": null,
+            "url": null,
+            "author": "bArray",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Great project, two recommendations:\u003cp\u003e1. A screenshot of something an implementer might expect to see (maybe a demo).\u003cp\u003e2. Mention that it\u0026#x27;s cross-platform near the top of the readme.",
+            "num_comments": null,
+            "story_id": 24674426,
+            "story_title": "Show HN: NasNas, a new intuitive and user friendly C++ game framework",
+            "story_url": "https://github.com/Madour/NasNas",
+            "parent_id": 24674474,
+            "created_at_i": 1601773067,
+            "_tags": [
+                "comment",
+                "author_bArray",
+                "story_24674426"
+            ],
+            "objectID": "24675852",
+            "_highlightResult": {
+                "author": {
+                    "value": "bArray",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Great project, two recommendations:\u003cp\u003e1. A screenshot of something an implementer might expect to see (maybe a demo).\u003cp\u003e2. Mention that \u003cem\u003eit's\u003c/em\u003e cross-platform near the top of the readme.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Show HN: NasNas, a new intuitive and user friendly C++ game framework",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/Madour/NasNas",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:57:36.000Z",
+            "title": null,
+            "url": null,
+            "author": "DonCopal",
+            "points": null,
+            "story_text": null,
+            "comment_text": "It\u0026#x27;s a part of the exercise.",
+            "num_comments": null,
+            "story_id": 24671638,
+            "story_title": "Git Exercises",
+            "story_url": "https://gitexercises.fracz.com/",
+            "parent_id": 24675379,
+            "created_at_i": 1601773056,
+            "_tags": [
+                "comment",
+                "author_DonCopal",
+                "story_24671638"
+            ],
+            "objectID": "24675851",
+            "_highlightResult": {
+                "author": {
+                    "value": "DonCopal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u003cem\u003eIt's\u003c/em\u003e a part of the exercise.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Git Exercises",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://gitexercises.fracz.com/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:57:35.000Z",
+            "title": null,
+            "url": null,
+            "author": "free_rms",
+            "points": null,
+            "story_text": null,
+            "comment_text": "The thing is, your perception of them on these issues is very much colored by the fact that they\u0026#x27;re not western.  It permeates all coverage of them from western sources.",
+            "num_comments": null,
+            "story_id": 24673755,
+            "story_title": "The End of the American Internet",
+            "story_url": "https://www.ben-evans.com/benedictevans/2020/10/3/the-end-of-the-american-internet",
+            "parent_id": 24675489,
+            "created_at_i": 1601773055,
+            "_tags": [
+                "comment",
+                "author_free_rms",
+                "story_24673755"
+            ],
+            "objectID": "24675850",
+            "_highlightResult": {
+                "author": {
+                    "value": "free_rms",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "The thing \u003cem\u003eis\u003c/em\u003e, your perception of them on these \u003cem\u003eis\u003c/em\u003esues \u003cem\u003eis\u003c/em\u003e very much colored by the fact that they're not western.  It permeates all coverage of them from western sources.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "The End of the American Internet",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.ben-evans.com/benedictevans/2020/10/3/the-end-of-the-american-internet",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:57:28.000Z",
+            "title": null,
+            "url": null,
+            "author": "q3k",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Here\u0026#x27;s a sample: “To ostatnia niedziela” as sang by Mieczysław Fogg: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=N-hg58QQmdc\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=N-hg58QQmdc\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24668579,
+            "story_title": "Falling in Love Again with the Haunting Sounds of Interwar Polish Tango",
+            "story_url": "https://www.collectorsweekly.com/articles/polish-tango/",
+            "parent_id": 24675774,
+            "created_at_i": 1601773048,
+            "_tags": [
+                "comment",
+                "author_q3k",
+                "story_24668579"
+            ],
+            "objectID": "24675849",
+            "_highlightResult": {
+                "author": {
+                    "value": "q3k",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Here's a sample: “To ostatnia niedziela” as sang by Mieczysław Fogg: \u003ca href=\"https://www.youtube.com/watch?v=N-hg58QQmdc\" rel=\"nofollow\"\u003ehttps://www.youtube.com/watch?v=N-hg58QQmdc\u003c/a\u003e",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_title": {
+                    "value": "Falling in Love Again with the Haunting Sounds of Interwar Polish Tango",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.collectorsweekly.com/articles/polish-tango/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:56:14.000Z",
+            "title": null,
+            "url": null,
+            "author": "mhb",
+            "points": null,
+            "story_text": null,
+            "comment_text": "One reason is that Netflix killed theirs after paying a prize of $1M for a 10% improvement to their already good Cinematch recommender. See: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;www.netflixprize.com\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;www.netflixprize.com\u0026#x2F;\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 24671368,
+            "story_title": "Enjoy the Best, Not the Latest, Media",
+            "story_url": "https://kartick.substack.com/p/enjoy-the-best-not-the-latest-media",
+            "parent_id": 24672665,
+            "created_at_i": 1601772974,
+            "_tags": [
+                "comment",
+                "author_mhb",
+                "story_24671368"
+            ],
+            "objectID": "24675845",
+            "_highlightResult": {
+                "author": {
+                    "value": "mhb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "One reason \u003cem\u003eis\u003c/em\u003e that Netflix killed theirs after paying a prize of $1M for a 10% improvement to their already good Cinematch recommender. See: \u003ca href=\"https://www.netflixprize.com/\" rel=\"nofollow\"\u003ehttps://www.netflixprize.com/\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Enjoy the Best, Not the Latest, Media",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://kartick.substack.com/p/enjoy-the-best-not-the-latest-media",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:56:05.000Z",
+            "title": null,
+            "url": null,
+            "author": "notacoward",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; Those features are still finding their way into C++.\u003cp\u003eNot the only area in which C++ is 30 years (and counting) behind state of the art.",
+            "num_comments": null,
+            "story_id": 24663770,
+            "story_title": "An opinionated history of programming languages",
+            "story_url": "https://artagnon.com/articles/pl",
+            "parent_id": 24675822,
+            "created_at_i": 1601772965,
+            "_tags": [
+                "comment",
+                "author_notacoward",
+                "story_24663770"
+            ],
+            "objectID": "24675844",
+            "_highlightResult": {
+                "author": {
+                    "value": "notacoward",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; Those features are still finding their way into C++.\u003cp\u003eNot the only area in which C++ \u003cem\u003eis\u003c/em\u003e 30 years (and counting) behind state of the art.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "An opinionated history of programming languages",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://artagnon.com/articles/pl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:55:47.000Z",
+            "title": null,
+            "url": null,
+            "author": "kelnos",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; \u003ci\u003eClosing loopholes is a problem and it just becomes a war of attrition with accountants and lawyers.\u003c/i\u003e\u003cp\u003eI think that\u0026#x27;s unfortunately true, but there must be a point of diminishing returns.  Close enough loopholes (intentional loopholes or otherwise) and companies end up spending more money on tax lawyers than the value of the actual tax break.  Even if some companies are able to use some loopholes, closing many of them still means more tax revenue for states.  We don\u0026#x27;t need to get to a \u0026quot;perfect\u0026quot; state here.",
+            "num_comments": null,
+            "story_id": 24671493,
+            "story_title": "Modi government to set up app store alternative to Google Play, Apple App Store",
+            "story_url": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+            "parent_id": 24673595,
+            "created_at_i": 1601772947,
+            "_tags": [
+                "comment",
+                "author_kelnos",
+                "story_24671493"
+            ],
+            "objectID": "24675841",
+            "_highlightResult": {
+                "author": {
+                    "value": "kelnos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; \u003ci\u003eClosing loopholes \u003cem\u003eis\u003c/em\u003e a problem and it just becomes a war of attrition with accountants and lawyers.\u003c/i\u003e\u003cp\u003eI think that's unfortunately true, but there must be a point of diminishing returns.  Close enough loopholes (intentional loopholes or otherwise) and companies end up spending more money on tax lawyers than the value of the actual tax break.  Even if some companies are able to use some loopholes, closing many of them still means more tax revenue for states.  We don't need to get to a \u0026quot;perfect\u0026quot; state here.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Modi government to set up app store alternative to Google Play, Apple App Store",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:55:46.000Z",
+            "title": null,
+            "url": null,
+            "author": "DonCopal",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Is this face motion tracking using a camera to apply to 3D models?",
+            "num_comments": null,
+            "story_id": 24671259,
+            "story_title": "Show HN: I made a Computer Vision addon for Blender",
+            "story_url": "https://github.com/Cartucho/vision_blender",
+            "parent_id": 24671259,
+            "created_at_i": 1601772946,
+            "_tags": [
+                "comment",
+                "author_DonCopal",
+                "story_24671259"
+            ],
+            "objectID": "24675840",
+            "_highlightResult": {
+                "author": {
+                    "value": "DonCopal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u003cem\u003eIs\u003c/em\u003e this face motion tracking using a camera to apply to 3D models?",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Show HN: I made a Computer Vision addon for Blender",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/Cartucho/vision_blender",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:54:21.000Z",
+            "title": null,
+            "url": null,
+            "author": "willColbert",
+            "points": null,
+            "story_text": null,
+            "comment_text": "News Explorer on MacOS and on iOS. It syncs through iCloud, and this obviously only works if all your reading is on Apple devices.\u003cp\u003eFor many years I used Reeder with syncing through Feed Wrangler. I switched because rendering is better with News Explorer.",
+            "num_comments": null,
+            "story_id": 24658424,
+            "story_title": "Ask HN: What RSS Reader do you use?",
+            "story_url": null,
+            "parent_id": 24658424,
+            "created_at_i": 1601772861,
+            "_tags": [
+                "comment",
+                "author_willColbert",
+                "story_24658424"
+            ],
+            "objectID": "24675839",
+            "_highlightResult": {
+                "author": {
+                    "value": "willColbert",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "News Explorer on MacOS and on \u003cem\u003eiOS\u003c/em\u003e. It syncs through iCloud, and this obviously only works if all your reading is on Apple devices.\u003cp\u003eFor many years I used Reeder with syncing through Feed Wrangler. I switched because rendering is better with News Explorer.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Ask HN: What RSS Reader do you use?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:54:21.000Z",
+            "title": null,
+            "url": null,
+            "author": "joshxyz",
+            "points": null,
+            "story_text": null,
+            "comment_text": "me finding this thread from \u003ca href=\"https:\u0026#x2F;\u0026#x2F;t.me\u0026#x2F;news_ycombinator\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;t.me\u0026#x2F;news_ycombinator\u003c/a\u003e\u003cp\u003e¯\\_(ツ)_\u0026#x2F;¯",
+            "num_comments": null,
+            "story_id": 24674855,
+            "story_title": "All Telegram servers are down",
+            "story_url": "https://telegram.org",
+            "parent_id": 24674855,
+            "created_at_i": 1601772861,
+            "_tags": [
+                "comment",
+                "author_joshxyz",
+                "story_24674855"
+            ],
+            "objectID": "24675838",
+            "_highlightResult": {
+                "author": {
+                    "value": "joshxyz",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "me finding this thread from \u003ca href=\"https://t.me/news_ycombinator\" rel=\"nofollow\"\u003ehttps://t.me/news_ycombinator\u003c/a\u003e\u003cp\u003e¯\\_(ツ)_/¯",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_title": {
+                    "value": "All Telegram servers are down",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://telegram.org",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:54:12.000Z",
+            "title": null,
+            "url": null,
+            "author": "FartyMcFarter",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; The difficulty is that you need to do nothing from the start and forever, to not be noticed.\u003cp\u003eWouldn\u0026#x27;t the manager notice?",
+            "num_comments": null,
+            "story_id": 24650817,
+            "story_title": "Employee works for both Google and Facebook from home",
+            "story_url": "https://twitter.com/arrington/status/1311520168200163328",
+            "parent_id": 24653109,
+            "created_at_i": 1601772852,
+            "_tags": [
+                "comment",
+                "author_FartyMcFarter",
+                "story_24650817"
+            ],
+            "objectID": "24675836",
+            "_highlightResult": {
+                "author": {
+                    "value": "FartyMcFarter",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; The difficulty \u003cem\u003eis\u003c/em\u003e that you need to do nothing from the start and forever, to not be noticed.\u003cp\u003eWouldn't the manager notice?",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Employee works for both Google and Facebook from home",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://twitter.com/arrington/status/1311520168200163328",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-04T00:52:29.000Z",
+            "title": null,
+            "url": null,
+            "author": "booleandilemma",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u003ci\u003eGiven enough time, it can just throw people at problems and get there\u003c/i\u003e\u003cp\u003eI don’t think it works that way. We’re not talking about building pyramids, or a great wall. It’s not a simple labor issue or China and India would already be winning.\u003cp\u003eA corrupt authoritarian country can’t innovate at the speed of a free and democratic one.",
+            "num_comments": null,
+            "story_id": 24673755,
+            "story_title": "The End of the American Internet",
+            "story_url": "https://www.ben-evans.com/benedictevans/2020/10/3/the-end-of-the-american-internet",
+            "parent_id": 24675222,
+            "created_at_i": 1601772749,
+            "_tags": [
+                "comment",
+                "author_booleandilemma",
+                "story_24673755"
+            ],
+            "objectID": "24675832",
+            "_highlightResult": {
+                "author": {
+                    "value": "booleandilemma",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u003ci\u003eGiven enough time, it can just throw people at problems and get there\u003c/i\u003e\u003cp\u003eI don’t think it works that way. We’re not talking about building pyramids, or a great wall. \u003cem\u003eIt’s\u003c/em\u003e not a simple labor issue or China and India would already be winning.\u003cp\u003eA corrupt authoritarian country can’t innovate at the speed of a free and democratic one.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "The End of the American Internet",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.ben-evans.com/benedictevans/2020/10/3/the-end-of-the-american-internet",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-01T11:27:10 .000Z",
+            "title": null,
+            "url": null,
+            "author": "Igelau",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; obviously the problem could be immediately \u0026quot;solved\u0026quot; with rm -rf .git \u0026amp;\u0026amp; git init, but...\u003cp\u003eNo buts about it. This is the way to go. That commit history is mostly junk. Its value is extremely limited and it\u0026#x27;s hanging around only because of fear and nostalgia. Archive it somewhere as read-only so that the worry warts will hush up and can reference when they need to (which IRL will be once or never), but just get rid of it in the live repo. The headaches you\u0026#x27;ll save yourself by starting fresh will vastly outweigh the problems you\u0026#x27;re afraid will happen.",
+            "num_comments": null,
+            "story_id": 24671638,
+            "story_title": "Git Exercises",
+            "story_url": "https://gitexercises.fracz.com/",
+            "parent_id": 24674183,
+            "created_at_i": 1601569630,
+            "_tags": [
+                "comment",
+                "author_Igelau",
+                "story_24671638"
+            ],
+            "objectID": "24675829",
+            "_highlightResult": {
+                "author": {
+                    "value": "Igelau",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; obviously the problem could be immediately \u0026quot;solved\u0026quot; with rm -rf .git \u0026amp;\u0026amp; git init, but...\u003cp\u003eNo buts about it. This \u003cem\u003eis\u003c/em\u003e the way to go. That commit history \u003cem\u003eis\u003c/em\u003e mostly junk. Its value \u003cem\u003eis\u003c/em\u003e extremely limited and it's hanging around only because of fear and nostalgia. Archive it somewhere as read-only so that the worry warts will hush up and can reference when they need to (which IRL will be once or never), but just get rid of it in the live repo. The headaches you'll save yourself by starting fresh will vastly outweigh the problems you're afraid will happen.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "ios"
+                    ]
+                },
+                "story_title": {
+                    "value": "Git Exercises",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://gitexercises.fracz.com/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-10-02T16:27:10.000Z",
+            "title": null,
+            "url": null,
+            "author": "kelnos",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; \u003ci\u003eMobile operators alone will balk at that.\u003c/i\u003e\u003cp\u003eI don\u0026#x27;t think that\u0026#x27;s a consideration anymore.  When the iPhone was brand-new, Apple had a ton of trouble negotiating with carriers who were used to controlling what goes on their network.  Nowadays, carriers have very little say beyond things like PCTRB certification and a mostly-cursory review of OS-level OTA updates.  When it comes to apps (or even app stores), the carriers don\u0026#x27;t even get notified, let alone get veto powers.",
+            "num_comments": null,
+            "story_id": 24671493,
+            "story_title": "Modi government to set up app store alternative to Google Play, Apple App Store",
+            "story_url": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+            "parent_id": 24673534,
+            "created_at_i": 1601656030,
+            "_tags": [
+                "comment",
+                "author_kelnos",
+                "story_24671493"
+            ],
+            "objectID": "24675828",
+            "_highlightResult": {
+                "author": {
+                    "value": "kelnos",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; \u003ci\u003eMobile operators alone will balk at that.\u003c/i\u003e\u003cp\u003eI don't think that's a consideration anymore.  When the iPhone was brand-new, Apple had a ton of trouble negotiating with carriers who were used to controlling what goes on their network.  Nowadays, carriers have very little say beyond things like PCTRB certification and a mostly-cursory review of OS-level OTA updates.  When it comes to apps (or even app stores), the carriers don't even get notified, let alone get veto powers.",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_title": {
+                    "value": "Modi government to set up app store alternative to Google Play, Apple App Store",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.deccanherald.com/specials/aatmanirbhar-bharat-modi-govt-to-set-up-app-store-alternative-to-google-play-apple-app-store-895755.html?\u0026ampcf=1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 151856,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "query": "ios",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=ios",
+    "processingTimeMS": 18
+}
