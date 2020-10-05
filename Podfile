@@ -8,7 +8,6 @@ target 'reignposts' do
   # Pods for reignposts
   pod 'Alamofire', '~> 4.4'
   pod 'NVActivityIndicatorView'
-  #pod 'NVPullToRefresh'
 
   #target 'reignpostsTests' do
    # inherit! :search_paths
