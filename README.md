@@ -1,7 +1,7 @@
 # Reignposts - Reign Posts News
 This project is to bring news from a service for iOS demostration
 
-##Installation
+## Installation
 
 ### Cocoapods
 To use this repository install first Cocoapods. [Cocoapods](https://cocoapods.org/#install) is a dependency manager for Swift and Objective-C Cocoa projects. 
